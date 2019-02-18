@@ -19,4 +19,5 @@ Create a UIViewController subclass. For example, go to your target's folder in t
 
 **How do you pass data between two view controllers? (this will need a few sentences to explain)**
 Click on view controller button at the top of the view controller, ctrl click and drag across, then click on show then give the segue an identifier
+
 **You dont link a segue "backwards", why?**
